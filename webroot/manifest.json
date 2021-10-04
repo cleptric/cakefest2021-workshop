@@ -1,0 +1,16 @@
+{
+  "frontend/main.js": {
+    "file": "assets/main.4c6dc3f8.js",
+    "src": "frontend/main.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor.f41e1fcb.js"
+    ],
+    "css": [
+      "assets/main.ea5f08fb.css"
+    ]
+  },
+  "_vendor.f41e1fcb.js": {
+    "file": "assets/vendor.f41e1fcb.js"
+  }
+}
