@@ -1,0 +1,13 @@
+{
+  "frontend/main.js": {
+    "file": "assets/main_js.65f50b89.js",
+    "src": "frontend/main.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor.003fa364.js"
+    ]
+  },
+  "_vendor.003fa364.js": {
+    "file": "assets/vendor.003fa364.js"
+  }
+}
